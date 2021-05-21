@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Momin-Ali .
+- 👋 Hi, I’m @Momin-Ali
 - 👀 I’m interested in Coding and Automation. 
 - 🌱 I’m currently learning Django and React
 - 💞️ I’m looking to collaborate on open source projects related to automation, django, data science and NLP 
